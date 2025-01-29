@@ -1,0 +1,11 @@
+<svg viewBox="0 0 300 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Code brackets - positioned closer together -->
+  <path d="M135 40 L125 60 L135 80" stroke="#B39DDB" stroke-width="3" fill="none"/>
+  <path d="M165 40 L175 60 L165 80" stroke="#B39DDB" stroke-width="3" fill="none"/>
+  
+  <!-- Main text in monospace -->
+  <text x="150" y="120" font-family="Courier New, monospace" font-size="48" text-anchor="middle" fill="#2C3E50" font-weight="bold">j3ssb</text>
+  
+  <!-- Subtitle -->
+  <text x="150" y="145" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="#B39DDB" letter-spacing="4">DEVELOPER</text>
+</svg>
